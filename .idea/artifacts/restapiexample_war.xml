@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="restapiexample:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="restapiexample.war">
+      <element id="artifact" artifact-name="restapiexample:war exploded" />
+    </root>
+  </artifact>
+</component>
